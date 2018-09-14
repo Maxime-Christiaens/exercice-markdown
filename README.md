@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Documentation Markdown
 
 ### Liste des fichiers :
@@ -15,3 +16,6 @@ Sources :
 - [MultiMarkDown](https://fr.wikipedia.org/wiki/MultiMarkdown)
 
 
+=======
+test
+>>>>>>> Edouard
