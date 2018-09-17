@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Documentation Markdown
 
 ### Liste des fichiers :
@@ -14,3 +15,5 @@ Sources :
 - [Daring fire ball "Site du créateur"](https://daringfireball.net/projects/markdown/)
 - [MultiMarkDown](https://fr.wikipedia.org/wiki/MultiMarkdown)
 
+=======
+>>>>>>> origin/Edouard
