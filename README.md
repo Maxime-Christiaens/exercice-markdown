@@ -28,12 +28,9 @@
 - [Wikipedia Markdown](https://fr.wikipedia.org/wiki/Markdown) 
 - [Daring fire ball "Site du créateur"](https://daringfireball.net/projects/markdown/)
 - [MultiMarkDown](https://fr.wikipedia.org/wiki/MultiMarkdown)
-<<<<<<< HEAD
 
 ### Source d'inspiration : 
 ![Description](https://media.giphy.com/media/2NDDbSOD2Y944/giphy.gif)
 
 
 
-=======
->>>>>>> 7ccd25f960f7a0d3747b2327942e3fa0151ea5fe
