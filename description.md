@@ -9,7 +9,7 @@
 
 
  
-#Bio de l'auteur : *John Gruber*, né en 1973
+# Bio de l'auteur : *John Gruber*, né en 1973
 * Est-il toujours vivant ? Oui
 * La date de création ? Le 19 mars 2004
 * La dernier mise à jour du Markdown: Le 17 décembre 2004 [Pour télécharger la dernière version](daringfireball.net/projects/downloads/Markdown_1.0.1.zip)
