@@ -1,3 +1,7 @@
+### Liste des fichiers :
+- [Description du markdown](/description.md)
+- [About](/README.md)
+
 # Descrption du Markdown
 
 ![Logo du MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
@@ -23,3 +27,5 @@ Markdown est une manière de faciliter et gagner un temps précieux. On peu rajo
 
 
 [Voici un lien pour plus d'informations](https://fr.wikipedia.org/wiki/MultiMarkdown)
+
+![Photogif](/photofunky.gif)
