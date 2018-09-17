@@ -33,7 +33,7 @@ Création de table :
 Couleur de code sytaxique : ` ```diff <code> ``` `
 
 Exemple :
-```diff
+``` JavaScript
 <script type="text/javascript">
     alert("Hello!");
 </script>
