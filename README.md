@@ -18,7 +18,7 @@
 - 14/09/18
 - 17/09/18
 
-### Exercice Exiger par :
+### Exercice demander par :
 - *Becode*
 
 ### Etat du projet : 
@@ -28,5 +28,8 @@
 - [Wikipedia Markdown](https://fr.wikipedia.org/wiki/Markdown) 
 - [Daring fire ball "Site du créateur"](https://daringfireball.net/projects/markdown/)
 - [MultiMarkDown](https://fr.wikipedia.org/wiki/MultiMarkdown)
+
+### Source d'inspiration : 
+![Description](https://media.giphy.com/media/2NDDbSOD2Y944/giphy.gif)
 
 
