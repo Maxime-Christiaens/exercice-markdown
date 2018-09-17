@@ -28,3 +28,13 @@ Création de table :
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
+
+
+Couleur de code sytaxique : ` ``` <Language> <code> ``` `
+
+Exemple :
+``` JavaScript
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+```
