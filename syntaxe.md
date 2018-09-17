@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ### Liste des fichiers :
 - [Description du markdown](/description.md)
 - [About](/README.md)
@@ -26,5 +24,3 @@ Création de table :
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
-Test
->>>>>>> Edouard
