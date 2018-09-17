@@ -27,3 +27,5 @@ Markdown est une manière de faciliter et gagner un temps précieux. On peu rajo
 
 
 [Voici un lien pour plus d'informations](https://fr.wikipedia.org/wiki/MultiMarkdown)
+
+![](/photofunky.gif)
