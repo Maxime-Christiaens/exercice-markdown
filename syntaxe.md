@@ -12,10 +12,15 @@ Création d'emphase : Markdown considèrent les astérisques `*` et les  soulign
 
 Création d'un lien : `[Description](url)`
 
-Insertion d'une image statique : `![Desciption](/path/to/img.jpg "Optional title")
+Insertion d'une image statique : `![Desciption](/path/to/img.jpg "Optional title")`
 
 Insertion d'une image dynamique : `![Description](URL)`
 
+Texte en italique : `_Texte_` ou `*Texte*`
+
+Texte en gras : `__Texte__` ou `**Texte**`
+
+Séparation de ligne : `-----------------`
 
 
 Création de table : 
@@ -23,5 +28,3 @@ Création de table :
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
-Test
