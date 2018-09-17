@@ -30,7 +30,7 @@ Création de table :
 | Text     | Text     | Text     |
 
 
-Couleur de code sytaxique : ` ```diff <code> ``` `
+Couleur de code sytaxique : ` ``` <Language> <code> ``` `
 
 Exemple :
 ``` JavaScript
