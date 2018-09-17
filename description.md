@@ -14,3 +14,12 @@
 * La date de création ? Le 19 mars 2004
 * La dernier mise à jour du Markdown: Le 17 décembre 2004 [Pour télécharger la dernière version](daringfireball.net/projects/downloads/Markdown_1.0.1.zip)
 * Collaborateur pour l'avancement du Markdown: Aaron Swartz arrivé en 2007
+
+## Qu'est-ce qu'est le Markdwon ?
+
+A l'origine (pour la version datant de 2004), le markdown est un logiciel écrit en Perl, permettant le formatage de texte brute en html. 
+
+Markdown est une manière de faciliter et gagner un temps précieux. On peu rajouter un style, le rendre plus beau, tout ça facillement. Il n'y a rien de compliquer dans ce code juste à écrire votre texte brut en indiquant le code rapide du Makdown. 
+
+
+[Voici un lien pour plus d'informations](https://fr.wikipedia.org/wiki/MultiMarkdown)
